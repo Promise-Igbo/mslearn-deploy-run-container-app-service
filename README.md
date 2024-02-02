@@ -29,3 +29,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+# Links
+https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/3-exercise-build-images
+https://azuredevopslabs.com/labs/vstsextend/docker/
